@@ -47,7 +47,7 @@ O design do site remete a um típico e‑commerce de produtos naturais. A homepa
 
 ## 📷 Visual do Projeto
 
-![Organi - Template]()
+![Organi - Template](Imagens/Imagem-Site.png)
 
 
 Você pode acessar o site hospedado no GitHub Pages através deste link:
